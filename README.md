@@ -1,3 +1,3 @@
-### Publication quality plotting templates
+# Publication quality plotting templates
 
-# I use python, julia, Paraview so far.
+### Trying to develop a standard template for my use.
